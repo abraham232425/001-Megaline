@@ -1,8 +1,8 @@
 # 001-Megaline
 
-# ANÁLISIS PARA LA EMPRESA DE TELECOMUNICACIONES MEGALINE.
+## ANÁLISIS PARA LA EMPRESA DE TELECOMUNICACIONES MEGALINE.
 
-## Realizar análisis de datos para la empresa Megaline para realizar un modelo predictivo sobre cada plan tarifario que ofrece al publico.
+## 📊 Realizar análisis de datos para la empresa Megaline para realizar un modelo predictivo sobre cada plan tarifario que ofrece al publico.
 
 ## Problema de Negocio.
 
@@ -16,9 +16,9 @@
 
 ## 🎯 Objetivos del Proyecto
 
-## Objetivo Principal: Explicar claramente la meta global (ej. Identificar los factores clave de fuga de clientes en un servicio de suscripción).
+## 🎯 Objetivo Principal: Explicar claramente la meta global (ej. Identificar los factores clave de fuga de clientes en un servicio de suscripción).
 
-## Objetivos Específicos:
+## 🎯 Objetivos Específicos:
 
 ## Limpiar y preparar la base de datos para garantizar la calidad de la información.
 ## Realizar un Análisis Exploratorio de Datos (EDA) para detectar patrones y correlaciones.
