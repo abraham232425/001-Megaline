@@ -57,3 +57,15 @@ Describe brevemente la lógica de trabajo aplicada:
 * Modelado / Transformación (si aplica): Segmentación, cálculo de métricas o modelos predictivos.
 
 * Visualización: Creación de dashboards o visualizaciones ejecutivas para presentar la información.
+
+✉️ Contacto y Agradecimientos
+
+Creado por [Abraham Gómez]
+
+📧 Correo: gomez.rangel.abraham@gmail.com
+
+💼 LinkedIn: linkedin.com/in/abraham-gomez-rangel
+
+🌐 Portfolio / Sitio Web: https://github.com/abraham232425
+
+Si este proyecto te resultó útil o te sirvió de inspiración, ¡no dudes en darle una ⭐ al repositorio!
