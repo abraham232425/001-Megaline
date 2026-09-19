@@ -64,7 +64,7 @@ Creado por [Abraham Gómez]
 
 📧 Correo: gomez.rangel.abraham@gmail.com
 
-💼 LinkedIn: linkedin.com/in/abraham-gomez-rangel
+💼 LinkedIn: www.linkedin.com/in/abraham-gomez-rangel
 
 🌐 Portfolio / Sitio Web: https://github.com/abraham232425
 
